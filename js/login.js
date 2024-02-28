@@ -14,7 +14,7 @@ document.getElementById('btn-submit').addEventListener('click', function(){
         window.location.href = 'bank.html';
     }
     else{
-        alert('Toi password vule gasos.!! Tuke ami teijjo sontan gosona korlam')
+        alert('তুই পাসওয়ার্ড় ভুলে গেছত..! তোকে আমি তেইজ পু্ত্র ঘোশনা করলাম।')
     }
 
 })
